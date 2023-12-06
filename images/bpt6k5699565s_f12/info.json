@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 204,
+    "height" : 169
+  }, {
+    "width" : 408,
+    "height" : 338
+  }, {
+    "width" : 816,
+    "height" : 676
+  }, {
+    "width" : 1632,
+    "height" : 1351
+  }, {
+    "width" : 3263,
+    "height" : 2701
+  }, {
+    "width" : 6526,
+    "height" : 5401
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6526,
+  "@id" : "https://MaddalenaA.github.io/project_ships/images/bpt6k5699565s_f12",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5401
+}
