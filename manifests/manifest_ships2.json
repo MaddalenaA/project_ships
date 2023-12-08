@@ -1,0 +1,402 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Collection de plans ou Dessins de navires et de bateaux anciens et modernes, existants ou disparus : avec les éléments numériques nécessaires à leur construction",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : [ {
+      "@value" : "Collection de plans ou Dessins de navires et de bateaux anciens et modernes, existants ou disparus : avec les éléments numériques nécessaires à leur construction",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Author",
+    "value" : [ {
+      "@value" : "Pâris, Edmond (1806-1893)",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Publisher",
+    "value" : [ {
+      "@value" : "Gauthier-Villars (Paris)",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Publication Date",
+    "value" : [ {
+      "@value" : "1882-1908",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Catalog Entry",
+    "value" : [ {
+      "@value" : "http://catalogue.bnf.fr/ark:/12148/cb31059270f",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Language",
+    "value" : [ {
+      "@value" : "French",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Type",
+    "value" : [ {
+      "@value" : "Printed Monograph",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Format",
+    "value" : [ {
+      "@value" : "large folio",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Total Views",
+    "value" : [ {
+      "@value" : "8",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Volume Number",
+    "value" : [ {
+      "@value" : "Third",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Identifier",
+    "value" : [ {
+      "@value" : "ark:/12148/bpt6k5699565s",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "National Library of France, Department of Sciences and Techniques, GR FOL-V-98 (3)",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Digital Preservation",
+    "value" : [ {
+      "@value" : "National Library of France",
+      "@language" : "en"
+    } ]
+  } ],
+  "description" : [ {
+    "@value" : "8 plates extracted from the book 'Collection de plans ou Dessins de navires et de bateaux anciens et modernes, existants ou disparus : avec les éléments numériques nécessaires à leur construction' by Vice-Admiral Edmond PÂRIS.",
+    "@language" : "en"
+  } ],
+  "attribution" : "Bibliothèque nationale de France",
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "sequences" : [ {
+    "@id" : "http://4a6e9942-20a6-4c69-972f-1d9cb6c21359",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10",
+      "label" : "f10",
+      "height" : 5325,
+      "width" : 6526,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f10"
+          },
+          "height" : 5325,
+          "width" : 6526,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f10/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f10.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12",
+      "label" : "f12",
+      "height" : 5401,
+      "width" : 6526,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f12"
+          },
+          "height" : 5401,
+          "width" : 6526,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f12/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f12.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16",
+      "label" : "f16",
+      "height" : 5433,
+      "width" : 6526,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f16"
+          },
+          "height" : 5433,
+          "width" : 6526,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f16/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f16.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34",
+      "label" : "f34",
+      "height" : 5365,
+      "width" : 6526,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f34"
+          },
+          "height" : 5365,
+          "width" : 6526,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f34/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f34.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36",
+      "label" : "f36",
+      "height" : 5339,
+      "width" : 6426,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f36"
+          },
+          "height" : 5339,
+          "width" : 6426,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f36/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f36.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38",
+      "label" : "f38",
+      "height" : 5283,
+      "width" : 6494,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f38"
+          },
+          "height" : 5283,
+          "width" : 6494,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f38/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f38.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40",
+      "label" : "f40",
+      "height" : 5529,
+      "width" : 6526,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f40"
+          },
+          "height" : 5529,
+          "width" : 6526,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f40/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f40.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42",
+      "label" : "f42",
+      "height" : 5433,
+      "width" : 6494,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f42"
+          },
+          "height" : 5433,
+          "width" : 6494,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/f42/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k5699565s/f42.thumbnail"
+      },
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/manifest.json",
+        "label" : "BnF, département Sciences et techniques, GR FOL-V-98 (3)",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/couronne",
+    "@type" : "sc:Range",
+    "label" : "Planche du vaisseau 'La Couronne' et comparaison avec navires arabes",
+    "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16" ],
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/book1/range/couronne/n122",
+      "@type" : "sc:Range",
+      "label" : "N°122 : plan principal de La Couronne",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/couronne/n123",
+      "@type" : "sc:Range",
+      "label" : "N°123 : coupe arrière de La Couronne",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/couronne/n125",
+      "@type" : "sc:Range",
+      "label" : "N°125 : plans de deux navires arabes et indiens",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16" ]
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/le_royal_louis",
+    "@type" : "sc:Range",
+    "label" : "Planches du vaisseau 'Le Royal Louis'",
+    "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42" ],
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n134",
+      "@type" : "sc:Range",
+      "label" : "N°134 : plan principal du Royal Louis",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n135",
+      "@type" : "sc:Range",
+      "label" : "N° 135 : section longitudinale du Royal Louis",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n136",
+      "@type" : "sc:Range",
+      "label" : "N°136 : détail de la mâture du Royal Louis",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n137",
+      "@type" : "sc:Range",
+      "label" : "N°137 : détail de la mâture et du gréement du Royal Louis",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n138",
+      "@type" : "sc:Range",
+      "label" : "N°138 : coupe arrière du Royal Louis",
+      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42" ]
+    } ]
+  } ]
+}
