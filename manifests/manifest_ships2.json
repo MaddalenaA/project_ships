@@ -346,57 +346,96 @@
       }
     } ]
   } ],
-  "structures" : [ {
-    "@id" : "http://example.org/iiif/book1/range/couronne",
-    "@type" : "sc:Range",
-    "label" : "Planche du vaisseau 'La Couronne' et comparaison avec navires arabes",
-    "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16" ],
-    "ranges" : [ {
-      "@id" : "http://example.org/iiif/book1/range/couronne/n122",
-      "@type" : "sc:Range",
-      "label" : "N°122 : plan principal de La Couronne",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10" ]
-    }, {
-      "@id" : "http://example.org/iiif/book1/range/couronne/n123",
-      "@type" : "sc:Range",
-      "label" : "N°123 : coupe arrière de La Couronne",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12" ]
-    }, {
-      "@id" : "http://example.org/iiif/book1/range/couronne/n125",
-      "@type" : "sc:Range",
-      "label" : "N°125 : plans de deux navires arabes et indiens",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16" ]
-    } ]
-  }, {
-    "@id" : "http://example.org/iiif/book1/range/le_royal_louis",
-    "@type" : "sc:Range",
-    "label" : "Planches du vaisseau 'Le Royal Louis'",
-    "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40", "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42" ],
-    "ranges" : [ {
-      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n134",
-      "@type" : "sc:Range",
-      "label" : "N°134 : plan principal du Royal Louis",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34" ]
-    }, {
-      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n135",
-      "@type" : "sc:Range",
-      "label" : "N° 135 : section longitudinale du Royal Louis",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36" ]
-    }, {
-      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n136",
-      "@type" : "sc:Range",
-      "label" : "N°136 : détail de la mâture du Royal Louis",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38" ]
-    }, {
-      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n137",
-      "@type" : "sc:Range",
-      "label" : "N°137 : détail de la mâture et du gréement du Royal Louis",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40" ]
-    }, {
-      "@id" : "http://example.org/iiif/book1/range/le_royal_louis/n138",
-      "@type" : "sc:Range",
-      "label" : "N°138 : coupe arrière du Royal Louis",
-      "canvases" : [ "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42" ]
-    } ]
-  } ]
+  "structures": [
+		{
+		  "@id": "http://example.org/iiif/book1/range/couronne",
+		  "@type": "sc:Range",
+		  "label": "'La Couronne' and Arab and Indian ships",
+		  "canvases": [
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10",
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12",
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16"
+		  ],
+		  "ranges": [
+			{
+			  "@id": "http://example.org/iiif/book1/range/couronne/n122",
+			  "@type": "sc:Range",
+			  "label": "No. 122: main plan of 'La Couronne'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f10"
+			  ]
+			},
+			{
+			  "@id": "http://example.org/iiif/book1/range/couronne/n123",
+			  "@type": "sc:Range",
+			  "label": "No. 123: rear section of 'La Couronne'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f12"
+			  ]
+			},
+			{
+			  "@id": "http://example.org/iiif/book1/range/couronne/n125",
+			  "@type": "sc:Range",
+			  "label": "No. 125: plans of two Arab and Indian ships",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "@id": "http://example.org/iiif/book1/range/le_royal_louis",
+		  "@type": "sc:Range",
+		  "label": "'Le Royal Louis'",
+		  "canvases": [
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34",
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36",
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38",
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40",
+			"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42"
+		  ],
+		  "ranges": [
+			{
+			  "@id": "http://example.org/iiif/book1/range/le_royal_louis/n134",
+			  "@type": "sc:Range",
+			  "label": "No. 134: main plan of 'Le Royal Louis'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+			  ]
+			},
+			{
+			  "@id": "http://example.org/iiif/book1/range/le_royal_louis/n135",
+			  "@type": "sc:Range",
+			  "label": "No. 135: longitudinal section of 'Le Royal Louis'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f36"
+			  ]
+			},
+			{
+			  "@id": "http://example.org/iiif/book1/range/le_royal_louis/n136",
+			  "@type": "sc:Range",
+			  "label": "No. 136: detail of the mast of 'Le Royal Louis'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f38"
+			  ]
+			},
+			{
+			  "@id": "http://example.org/iiif/book1/range/le_royal_louis/n137",
+			  "@type": "sc:Range",
+			  "label": "No. 137: detail of the mast and rigging of 'Le Royal Louis'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f40"
+			  ]
+			},
+			{
+			  "@id": "http://example.org/iiif/book1/range/le_royal_louis/n138",
+			  "@type": "sc:Range",
+			  "label": "No. 138: rear section of 'Le Royal Louis'",
+			  "canvases": [
+				"https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f42"
+			  ]
+			}
+		  ]
+		}
+	]	
 }
