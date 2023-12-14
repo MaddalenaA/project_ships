@@ -1,0 +1,376 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Mizzen topgallant mast (m&acirc;t de perroquet de fougue)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Mizzen topgallant mast (m&acirc;t de perroquet de fougue)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:21:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563662540",
+    "dcterms:modified" : "2023-12-14T15:27:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1812,2174,222,621"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1812.2,2173.82464h111.23478v0h111.23478v310.70725v310.70725h-111.23478h-111.23478v-310.70725z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_a2e14fc3-939c-4ca4-9f32-61b328d79718\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Mizzen lower mast (bas m&acirc;t d'artimon)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Mizzen lower mast (bas m&acirc;t d'artimon)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:20:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563632896",
+    "dcterms:modified" : "2023-12-14T15:27:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1718,2804,317,842"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1717.71304,2803.73768h158.47826v0h158.47826v420.94203v420.94203h-158.47826h-158.47826v-420.94203z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ced7bf05-3f47-4299-823c-5f6b8a1560cd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fore lower mast (bas m&acirc;t de misaine)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fore lower mast (bas m&acirc;t de misaine)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:24:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563840705",
+    "dcterms:modified" : "2023-12-14T15:28:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4185,2783,380,1052"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4184.87246,2782.74058h189.97391v0h189.97391v525.92754v525.92754h-189.97391h-189.97391v-525.92754z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_4544a167-1642-449e-a368-e9514db8ff1e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mizzen royal mast (m&acirc;t de perruche)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mizzen royal mast (m&acirc;t de perruche)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:21:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563700837",
+    "dcterms:modified" : "2023-12-14T15:27:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1791,1586,264,590"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1791.2029,1585.9058h132.23188v0h132.23188v294.95942v294.95942h-132.23188h-132.23188v-294.95942z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_2ef8d65b-d2be-45ff-867d-8684da18289f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main royal mast (m&acirc;t de grand perroquet)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main royal mast (m&acirc;t de grand perroquet)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:23:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563819116",
+    "dcterms:modified" : "2023-12-14T15:28:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2694,767,296,579"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2694.07826,767.01884h147.97971v0h147.97971v289.71014v289.71014h-147.97971h-147.97971v-289.71014z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_fb0aff86-4c6c-4de6-8a90-1c57e990f38b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main top mast (grand m&acirc;t de hune)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main top mast (grand m&acirc;t de hune)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:22:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563771579",
+    "dcterms:modified" : "2023-12-14T15:28:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2694,1365,296,1262"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2694.07826,1365.43623h147.97971v0h147.97971v630.91304v630.91304h-147.97971h-147.97971v-630.91304z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_d8b4ad45-118a-4cd2-abc5-21a283cf1298\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main lower mast (grand bas m&acirc;t)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main lower mast (grand bas m&acirc;t)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:22:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563748612",
+    "dcterms:modified" : "2023-12-14T15:28:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2631,2636,411,1188"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2631.08696,2635.76087h205.72174v0h205.72174v594.16812v594.16812h-205.72174h-205.72174v-594.16812z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_181f808c-6fef-4032-99c6-0d20da4ac53e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Flag mast (m&acirc;t de pavillon)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Flag mast (m&acirc;t de pavillon)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:27:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702564029581",
+    "dcterms:modified" : "2023-12-14T15:27:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=546,2303,590,1084"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M545.84348,2302.61739h294.9087v0h294.9087v542.16522v542.16522h-294.9087h-294.9087v-542.16522z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_f55500b1-9f25-4eb4-b18f-4027904ef676\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fore royal mast (m&acirc;t de petit perroquet)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fore royal mast (m&acirc;t de petit perroquet)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:24:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563893798",
+    "dcterms:modified" : "2023-12-14T15:28:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4321,872,180,768"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4321.35362,872.00435h90.23768v0h90.23768v384.1971v384.1971h-90.23768h-90.23768v-384.1971z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_4b15d8e4-6cbd-4490-9209-b2ee8fec14b7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fore top mast (petit m&acirc;t de hune)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fore top mast (petit m&acirc;t de hune)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mast",
+      "@type" : "oa:Tag",
+      "chars" : "mast"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:24:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563865903",
+    "dcterms:modified" : "2023-12-14T15:28:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4227,1628,306,1136"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4226.86667,1627.9h153.22899v0h153.22899v567.92174v567.92174h-153.22899h-153.22899v-567.92174z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_f70dbd10-85f5-4276-a42d-f74f388acf71\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f34"
+    } ]
+  } ],
+  "@id" : "https://MaddalenaA.github.io/project_ships/annotations/f34annotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
