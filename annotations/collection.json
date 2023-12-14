@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://MaddalenaA.github.io/project_ships/annotations/f10annotation.json" ],
+  "@id" : "https://MaddalenaA.github.io/project_ships/annotations/collection.json",
+  "label" : "All annotations loaded in MaddalenaA/project_ships project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
