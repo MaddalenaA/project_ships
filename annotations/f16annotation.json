@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Baggala of Muscat, 1838",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Baggala of Muscat, 1838</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T14:18:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563520617",
+    "dcterms:modified" : "2023-12-14T15:26:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=426,599,2826,3383"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M426.3913,599.04203h1413.05507v0h1413.05507v1691.26667v1691.26667h-1413.05507h-1413.05507v-1691.26667z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_32db2a9e-4389-48c2-b3bc-1c81e2f543b7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Sketch of transformed Baggala",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-bottom: 0cm; border: 1px solid #d9d9e3; padding: 0.05cm;\">Sketch of transformed Baggala</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T14:13:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563233037",
+    "dcterms:modified" : "2023-12-14T15:26:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=230,491,1661,1406"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1890.93913,1897.18783h-830.48522v0h-830.48522v-702.92783v-702.92783h830.48522h830.48522v702.92783z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_086b1aff-9dff-442f-b65a-93ffa4d17b24\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"border: 1px solid #d9d9e3; padding: 0.05cm;\">Dungiyah from the Gulf of Kutch",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"border: 1px solid #d9d9e3; padding: 0.05cm;\">Dungiyah from the Gulf of Kutch</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151624434",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T14:19:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702563549588",
+    "dcterms:modified" : "2023-12-14T15:27:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaddalenaA.github.io/project_ships/manifests/manifest_ships2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3586,620,2595,2816"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3586.45507,620.03913h1297.57101v0h1297.57101v1407.8058v1407.8058h-1297.57101h-1297.57101v-1407.8058z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_e33f05ec-09fd-48a8-beb1-654af9f24e2c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5699565s/canvas/f16"
+    } ]
+  } ],
+  "@id" : "https://MaddalenaA.github.io/project_ships/annotations/f16annotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
